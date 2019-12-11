@@ -1,3 +1,5 @@
+# 无损升级mac10.15.2
+
 # Z390I-AORUS-PRO-WIFI
 Hackintosh<br>
 # 配置清单
